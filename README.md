@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Zaza Thomas</h1>
 <h3 align="center">A Security Engineer</h3>
 
-- 🔭 I’m currently focused on **DevSecOps & Cloud Native Security**
+- 🔭 I’m currently focused on **DevSecOps & Cloud Native Security.**
 
-- 👯 I’m open to collaborate on **various cybersecurity initiatives in & around the CNCF ecosystem**
+- 👯 I’m open to collaborate on **various cybersecurity initiatives in & around the CNCF ecosystem.**
 
 - 👨‍💻 Some of my current side projects include:
   - [Homelab](https://github.com/zazathomas/Homelab)
