@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Zaza Thomas</h1>
+<h2 align="center">Hi 👋, I'm Zaza Thomas</h1>
 <h3 align="center">A Security Engineer</h3>
 
 - 🔭 I’m currently focused on **DevSecOps & Cloud Native Security.**
