@@ -26,6 +26,9 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
+  <a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle cloud" width="40" height="40"/> 
+  </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
@@ -90,25 +93,24 @@
     <img src="https://www.vectorlogo.zone/logos/ciliumio/ciliumio-icon.svg" alt="cilium" width="40" height="40"/> 
   </a> 
   <a href="https://kyverno.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/kyverno/kyverno/main/logo/logo.png" alt="kyverno" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/5a2573d3-957e-4015-a093-6adbdf3c641e" alt="kyverno" width="40" height="40"/> 
   </a> 
+
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> 
-    <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/nessus-icon.svg" alt="nessus" width="40" height="40"/> 
-  </a> 
+    <img src="https://github.com/user-attachments/assets/ec269d4a-aaed-451b-ba1a-6d5a7ac216ce" alt="nessus" width="40" height="40"/> 
+  </a>
+
   <a href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/assets/images/trivy-logo.png" alt="trivy" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/7be4bc7e-2f32-4c5e-8f18-a86c961fc64e" alt="trivy" width="40" height="40"/> 
   </a> 
   <a href="https://falco.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/falcosecurity/falco-website/main/static/img/falco-logo.svg" alt="falco" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/18aefee3-0104-4202-9670-5753061ea135" alt="falco" width="40" height="40"/> 
   </a> 
   <a href="https://neuvector.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.neuvector.com/hubfs/neuvector.svg" alt="neuvector" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/82d2c080-b3bf-41ac-97be-531c4b8f4ccd" alt="neuvector" width="40" height="40"/> 
   </a> 
   <a href="https://sigstore.dev/cosign/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/sigstore/cosign/main/logo/logo.png" alt="cosign" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle cloud" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/ed9bbd6f-0f29-4bfe-9e91-6ca900a5e01d" alt="cosign" width="40" height="40"/> 
   </a> 
   <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/> 
