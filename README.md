@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **zaza@z3cyber.tech**
 
-- 📄 Know about my experiences [Linkedin Profile](https://www.linkedin.com/in/zazathomas/)
+- 📄 Know about my experiences [Here](https://www.linkedin.com/in/zazathomas/)
 
 
 # 💻 Tech Stack:
