@@ -8,9 +8,9 @@
 
 - 👨‍💻 Some of my current side projects include:
   - [Homelab](https://github.com/zazathomas/Homelab)
-  - [Detection Engineering](https://github.com/zazathomas/Detection-Engineering)
-  - [Compliance as Code](https://github.com/zazathomas/compliance-as-code)
   - [DevSecOps](https://github.com/zazathomas/Jenkins-for-DevSecOps)
+  - [Compliance as Code](https://github.com/zazathomas/compliance-as-code)
+  - [Detection Engineering](https://github.com/zazathomas/Detection-Engineering)
 
 - 📝 I regularly write articles on [MyBlog](https://zazathomas.github.io/Security-Engineering-Diaries/)
 
